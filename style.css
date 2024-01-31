@@ -1,0 +1,51 @@
+
+
+body{
+    background: rgb(73, 69, 69);
+    height: cover;
+}
+
+.navbar{
+    border-bottom: rgb(0, 195, 255) 3px solid;
+    opacity: 0.8;
+}
+
+.p-1{
+    margin-top: -24px;
+}
+.card{
+    width: 100%;
+    margin-left: 800px;
+    margin-top: -440px;
+}
+
+#home-section{
+    background-image: url(./img/home.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+.dark-overlay{
+    background-color: rgba(10, 10, 10, 0.514);
+    height: 43.8rem;
+}
+
+.home-inner{
+    padding-top: 150px;
+}
+
+.card-form{
+    opacity: 0.8;
+}
+
+.fa{
+    color: blue;
+    background: darkgray;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+
